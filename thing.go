@@ -5,6 +5,6 @@ import (
 )
 
 func thing(s string) {
-	fmt.Println("Thing:", s)
+	fmt.Println("Things:", s)
 }
 
